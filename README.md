@@ -2,6 +2,8 @@
 
 Techwear brand store with AI virtual try-on.
 
+**Live demo:** https://synth-era-armor.surge.sh
+
 ![SYNTH ERA — Modern Armor screenshot](docs/screenshot.webp)
 
 ## Features
